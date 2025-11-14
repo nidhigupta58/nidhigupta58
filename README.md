@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gnidhi58@gmail.com**
 
-- 📄 Know about my experiences [https://nidhi-portfolio-blue-five.vercel.app](https://nidhi-portfolio-blue-five.vercel.app)
+- 📄 Know about my experiences [Resume](./Nidhi%20Gupta.pdf)
 
 - ⚡ Fun fact **I think I am cute:D**
 

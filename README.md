@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58" alt="nidhigupta58" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **A chatbot website where you can create your own custoom AI agent in minutes just by dumpuing your raw stuff in any give file format**
 
 - 🌱 I’m currently learning **ReactJs, NextJs and JavaScript**

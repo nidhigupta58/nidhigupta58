@@ -1,35 +1,118 @@
-<h1 align="center">Hi 👋, I'm Nidhi Gupta</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"> Hi, I'm Nidhi Gupta!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhigupta58&label=Profile%20views&color=0e75b6&style=flat" alt="nidhigupta58" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+💻;React+%26+Laravel+Engineer+⚡;Building+AI+%26+Realtime+Apps+🚀;Tech+Enthusiast+from+India+🇮🇳" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58" alt="nidhigupta58" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhigupta58&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/nidhigupta58?label=Followers&style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/github/stars/nidhigupta58?label=Stars&style=for-the-badge&color=gold" />
+</div>
 
-- 🔭 I’m currently working on **A chatbot website where you can create your own custoom AI agent in minutes just by dumpuing your raw stuff in any give file format**
+---
 
-- 🌱 I’m currently learning **ReactJs, NextJs and JavaScript**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- 👯 I’m looking to collaborate on **freelancing projects**
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 All of my projects are available at [https://nidhi-portfolio-blue-five.vercel.app](https://nidhi-portfolio-blue-five.vercel.app)
+- 🚀 Building **AI-powered applications**, real-time chat systems & modern web platforms  
+- 🌱 Currently learning **ReactJS, Next.js & JavaScript**  
+- 👯 Open to collaborate on **frontend + full stack projects**  
+- 👨‍💻 Portfolio: **https://nidhi-portfolio-blue-five.vercel.app**  
+- 📫 Reach me at: **gnidhi58@gmail.com**  
+- ⚡ Fun fact: **I think I’m cute 😄**
 
-- 📫 How to reach me **gnidhi58@gmail.com**
+<div align="center">
+  <a href="https://nidhi-portfolio-blue-five.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="./Nidhi Gupta.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nidhi-gupta-9081081b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nidhigupta2942">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-- 📄 Know about my experiences [Resume](./Nidhi%20Gupta.pdf)
+---
 
-- ⚡ Fun fact **I think I am cute:D**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidhi-gupta-9081081b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-gupta-9081081b8" height="30" width="40" /></a>
-<a href="https://instagram.com/nidhigupta2942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhigupta2942" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhigupta58&show_icons=true&locale=en&layout=compact" alt="nidhigupta58" /></p>
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&locale=en" alt="nidhigupta58" /></p>
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhigupta58&" alt="nidhigupta58" /></p>
+### 🔧 Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Overall Stats
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
+
+### Streaks
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhigupta58&theme=radical&hide_border=true" />
+
+### Languages
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />
+
+### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 Trophy Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:gnidhi58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nidhi-gupta-9081081b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/nidhigupta2942"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Have+a+lovely+day!+💜" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>

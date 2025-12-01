@@ -16,12 +16,12 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🚀 Building **AI-powered applications**, real-time chat systems & modern web platforms  
-- 🌱 Currently learning **ReactJS, Next.js & JavaScript**  
-- 👯 Open to collaborate on **frontend + full stack projects**  
+- 🚀 Building **AI-driven applications**, real-time communication systems, and modern web platforms  
+- 🌱 Currently leveling up in **ReactJS, Next.js, JavaScript**, and scalable frontend engineering  
+- 🤝 Open to collaborating on **frontend, full stack, and AI-integrated projects**  
 - 👨‍💻 Portfolio: **https://nidhi-portfolio-blue-five.vercel.app**  
 - 📫 Reach me at: **gnidhi58@gmail.com**  
-- ⚡ Fun fact: **I think I’m cute 😄**
+- 💡 Fun fact: **I bring creativity into my code—and yes, I’m cute too 😄**
 
 <div align="center">
   <a href="https://nidhi-portfolio-blue-five.vercel.app">

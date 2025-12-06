@@ -21,7 +21,7 @@
 - 🤝 Open to collaborating on **frontend, full stack, and AI-integrated projects**  
 - 👨‍💻 Portfolio: **https://nidhi-portfolio-blue-five.vercel.app**  
 - 📫 Reach me at: **gnidhi58@gmail.com**  
-- 💡 Fun fact: **I bring creativity into my code, and yes, I’m cute too 😄**
+- 💡 Fun fact: **I bring creativity into my code**
 
 <div align="center">
   <a href="https://nidhi-portfolio-blue-five.vercel.app">

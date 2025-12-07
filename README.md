@@ -16,12 +16,29 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🚀 Building **AI-driven applications**, real-time communication systems, and modern web platforms  
-- 🌱 Currently leveling up in **ReactJS, Next.js, JavaScript**, and scalable frontend engineering  
-- 🤝 Open to collaborating on **frontend, full stack, and AI-integrated projects**  
-- 👨‍💻 Portfolio: **https://nidhi-portfolio-blue-five.vercel.app**  
-- 📫 Reach me at: **gnidhi58@gmail.com**  
-- 💡 Fun fact: **I bring creativity into my code**
+### 🚀 What I Build  
+- **AI-driven applications**, real-time communication systems, and modern web platforms  
+- Frontend experiences that are fast, intuitive, and scalable  
+
+### 🌱 What I’m Currently Working On  
+- Leveling up in **ReactJS**, **Next.js**, and modern **JavaScript**  
+- Exploring scalable frontend architectures and seamless AI integration  
+
+### 🤝 Open to Collaborations  
+I love contributing to:  
+- Frontend engineering  
+- Full-stack development  
+- Projects with **AI integration**, automation, and real-time features  
+
+### 👨‍💻 Portfolio  
+**https://nidhi-portfolio-blue-five.vercel.app**
+
+### 📫 Contact  
+**gnidhi58@gmail.com**
+
+### 💡 Fun Fact  
+I bring **creativity and personality** into every line of code I write.
+
 
 <div align="center">
   <a href="https://nidhi-portfolio-blue-five.vercel.app">

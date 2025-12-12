@@ -17,43 +17,23 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 What I Build  
-- **AI-driven applications**, real-time communication systems, and modern web platforms  
-- Frontend experiences that are fast, intuitive, and scalable  
+- **AI-driven applications**, real-time systems & modern web platforms  
+- Fast, interactive & scalable frontends  
 
-### 🌱 What I’m Currently Working On  
-- Leveling up in **ReactJS**, **Next.js**, and modern **JavaScript**  
-- Exploring scalable frontend architectures and seamless AI integration  
+### 🌱 Currently Learning  
+- **React**, **Next.js**, **JS advanced concepts**  
+- Scalable frontend architecture & AI integrations  
 
-### 🤝 Open to Collaborations  
-I love contributing to:  
+### 🤝 Open for Collaboration  
 - Frontend engineering  
-- Full-stack development  
-- Projects with **AI integration**, automation, and real-time features  
+- Full-stack apps  
+- AI + automation projects  
 
 ### 👨‍💻 Portfolio  
 **https://nidhi-portfolio-blue-five.vercel.app**
 
 ### 📫 Contact  
 **gnidhi58@gmail.com**
-
-### 💡 Fun Fact  
-I bring **creativity and personality** into every line of code I write.
-
-
-<div align="center">
-  <a href="https://nidhi-portfolio-blue-five.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="./Nidhi Gupta.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nidhi-gupta-9081081b8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nidhigupta2942">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
 
 ---
 
@@ -91,27 +71,27 @@ I bring **creativity and personality** into every line of code I write.
 
 <div align="center">
 
-### Overall Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
+### ⭐ Overall Stats
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
 
-### Streaks
-<img width="48%" src="https://streak-stats.demolab.com?user=nidhigupta58&theme=radical&hide_border=true" />
+### 🔥 Streaks
+<img width="48%" src="https://streak-stats.demolab.com?user=nidhigupta58&theme=radical&hide_border=true&cache_seconds=7200" />
 
-### Languages
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />
+### 🧩 Languages
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true&cache_seconds=7200" />
 
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=radical&hide_border=true&area=true&cache_seconds=7200" />
 
 </div>
 
 ---
 
 ## 🏆 Trophy Showcase
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58&theme=radical&margin-w=10" />
 </div>
+
 ---
 
 ## 🤝 Connect With Me

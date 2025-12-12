@@ -16,29 +16,27 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 What I Build  
+### 🚀 What I Build
 - **AI-driven applications**, real-time communication systems, and modern web platforms  
-- Frontend experiences that are fast, intuitive, and scalable  
+- Fast, intuitive & scalable frontend experiences  
 
-### 🌱 What I’m Currently Working On  
-- Leveling up in **ReactJS**, **Next.js**, and modern **JavaScript**  
-- Exploring scalable frontend architectures and seamless AI integration  
+### 🌱 What I’m Currently Working On
+- Leveling up in **ReactJS**, **Next.js**, and modern **JavaScript**
+- Exploring scalable frontend architectures & AI integration  
 
-### 🤝 Open to Collaborations  
-I love contributing to:  
+### 🤝 Open to Collaborations
 - Frontend engineering  
-- Full-stack development  
-- Projects with **AI integration**, automation, and real-time features  
+- Full-stack projects  
+- AI, automation & realtime apps  
 
 ### 👨‍💻 Portfolio  
-**https://nidhi-portfolio-blue-five.vercel.app**
+🔗 **https://nidhi-portfolio-blue-five.vercel.app**
 
 ### 📫 Contact  
-**gnidhi58@gmail.com**
+📩 **gnidhi58@gmail.com**
 
 ### 💡 Fun Fact  
 I bring **creativity and personality** into every line of code I write.
-
 
 <div align="center">
   <a href="https://nidhi-portfolio-blue-five.vercel.app">
@@ -91,17 +89,17 @@ I bring **creativity and personality** into every line of code I write.
 
 <div align="center">
 
-### Overall Stats
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical" />
+### ⭐ Overall Stats
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
 
-### Streaks
-<img width="48%" src="https://streak-stats.demolab.com/?user=nidhigupta58&theme=radical" />
+### 🔥 Streaks
+<img width="48%" src="https://streak-stats.demolab.com?user=nidhigupta58&theme=radical&hide_border=true" />
 
-### Languages
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical" />
+### 🧩 Languages
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />
 
-### Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nidhigupta58&theme=radical" />
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
 
 </div>
 
@@ -112,6 +110,7 @@ I bring **creativity and personality** into every line of code I write.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58" />
 </div>
+
 ---
 
 ## 🤝 Connect With Me

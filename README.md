@@ -92,16 +92,16 @@ I bring **creativity and personality** into every line of code I write.
 <div align="center">
 
 ### Overall Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical" />
 
 ### Streaks
-<img width="48%" src="https://streak-stats.demolab.com?user=nidhigupta58&theme=radical&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=nidhigupta58&theme=radical" />
 
 ### Languages
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical" />
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nidhigupta58&theme=radical" />
 
 </div>
 

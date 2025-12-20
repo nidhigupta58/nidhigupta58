@@ -93,7 +93,7 @@ I bring **creativity and personality** into every line of code I write.
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
 
 ### 🔥 Streaks
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nidhigupta58&theme=radical&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=nidhigupta58&theme=radical&hide_border=true" />
 
 ### 🧩 Languages
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />

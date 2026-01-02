@@ -95,9 +95,6 @@ I bring **creativity and personality** into every line of code I write.
 ### 🔥 Streaks
 <img width="48%" src="https://streak-stats.demolab.com/?user=nidhigupta58&theme=radical&hide_border=true" />
 
-### 🧩 Languages
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhigupta58&layout=compact&theme=radical&hide_border=true" />
-
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
 

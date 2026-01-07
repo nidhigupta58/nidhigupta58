@@ -93,7 +93,7 @@ I bring **creativity and personality** into every line of code I write.
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
 
 ### 🔥 Streaks
-<img width="48%" src="https://streak-stats.demolab.com/?user=nidhigupta58&theme=radical&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats-olive-beta-76.vercel.app?user=nidhigupta58)](https://git.io/streak-stats)
 
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />

@@ -105,7 +105,7 @@ I bring **creativity and personality** into every line of code I write.
 ## 🏆 Trophy Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhigupta58" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=tokyonight" />
 </div>
 
 ---

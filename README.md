@@ -89,9 +89,6 @@ I bring **creativity and personality** into every line of code I write.
 
 <div align="center">
 
-### ⭐ Overall Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidhigupta58&show_icons=true&theme=radical&hide_border=true" />
-
 ### 🔥 Streaks
 [![GitHub Streak](https://github-readme-streak-stats-olive-beta-76.vercel.app?user=nidhigupta58)](https://git.io/streak-stats)
 

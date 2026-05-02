@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"> Hi, I'm Nidhi Gupta! 
-
+    
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+💻;React+%26+Laravel+Engineer+⚡;Building+AI+%26+Realtime+Apps+🚀;Tech+Enthusiast+from+India+🇮🇳" />
 </div>

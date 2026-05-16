@@ -92,9 +92,6 @@ I bring **creativity and personality** into every line of code I write.
 ### 🔥 Streaks
 [![GitHub Streak](https://github-readme-streak-stats-olive-beta-76.vercel.app?user=nidhigupta58)](https://git.io/streak-stats)
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhigupta58&theme=redical&hide_border=true&area=true" />
-
 </div>
 
 ---
